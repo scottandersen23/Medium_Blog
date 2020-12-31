@@ -1,9 +1,9 @@
 # Medium_Blog
+## Stock Analysis
+## Python, Pandas, Machine Learning, Neural Network and Visualizations
 
-Directory that contains resources from my stories posted on Medium
-@ https://scottandersen23.medium.com/
+Please visit my LinkedIn: 
+https://www.linkedin.com/in/scott-andersen-3208897b/
 
-
-For employers looking to add someone to their development team, please connect with me on LinkedIn.
- https://www.linkedin.com/in/scott-andersen-3208897b/
-
+Top Writer for Finance on Medium:
+https://scottandersen23.medium.com/about
