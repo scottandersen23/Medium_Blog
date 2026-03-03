@@ -1,0 +1,14 @@
+
+snowflake_profile:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      account: <your_account>
+      user: <your_user>
+      password: <your_password>
+      role: <your_role>
+      database: ANALYTICS
+      warehouse: COMPUTE_WH
+      schema: PUBLIC
+      threads: 4

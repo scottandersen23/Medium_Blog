@@ -1,0 +1,13 @@
+
+name: 'airflow_snowflake_demo'
+version: '1.0'
+config-version: 2
+
+profile: 'snowflake_profile'
+
+models:
+  airflow_snowflake_demo:
+    staging:
+      materialized: view
+    marts:
+      materialized: table
